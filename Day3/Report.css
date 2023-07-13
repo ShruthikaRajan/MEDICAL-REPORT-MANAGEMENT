@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+section{
+    border: 10px solid grey;
+    height:90vh;
+}
+.container{
+    border:10px solid grey;
+    max-width:700px;
+    margin:auto;
+    height: 50vh;
+    display:flex;
+    align-items:centre;
+    padding:14px;
+}
