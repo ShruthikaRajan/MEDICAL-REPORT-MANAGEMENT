@@ -1,0 +1,20 @@
+.aboutcard{
+    width: 800px;
+	height:1300px;
+	position: relative;
+	top: 5%;
+	left:70%;
+    background-color: #e4e4e4;
+	border-radius: 20px;
+}
+.aboutp{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
+    margin-left:44px;
+    
+}
+.abouth2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
