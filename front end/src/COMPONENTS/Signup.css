@@ -1,0 +1,48 @@
+.loginbody{
+	background-color: aliceblue;
+	width:400px;
+	height:8000px;
+	margin-top: 30px;
+	margin-left: 600px;
+}
+.label{
+	font-size: 25px;
+	text-align: center;
+	color:black;
+}
+.input{
+	width:100px;
+	height:900px;
+}
+input{
+	width: 60%;
+	height: 50px;
+	background:rgb(253, 252, 252);
+    justify-content: center;
+	display: flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+button{
+	width: 60%;
+	height: 40px;
+	margin: 10px auto;
+	justify-content: center;
+	display: block;
+	color: #fff;
+	background: #39393a;
+	font-size: 1em;
+	font-weight: bold;
+	margin-top: 20px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	transition: .2s ease-in;
+	cursor: pointer;
+}
+select{
+    margin-left: 80px;
+}

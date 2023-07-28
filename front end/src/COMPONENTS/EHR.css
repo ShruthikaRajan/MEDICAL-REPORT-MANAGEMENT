@@ -1,0 +1,31 @@
+.aboutcard{
+    
+    width: 900px;
+	height:600px;
+	position: relative;
+	top: 5%;
+	left:70%;
+    background-color: #0b0707;
+	border-radius: 20px;
+}
+.aboutehr{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 34px;
+    margin-left:17px;
+    color: rgb(12, 12, 12);
+    
+}
+.abouth2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(32, 30, 30);
+}
+.aboutp{
+    color:rgb(24, 20, 20);
+}
+li{
+    font-size: 25px;
+    margin-left: 60px;
+    color:black;
+}
